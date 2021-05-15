@@ -51,7 +51,7 @@ Faça o download ( clone ) do repositório - [Rodrigo](https://github.com/Rodrig
 ```
 ![git](Capturar.PNG)
 ```
-Abra o projeto com a Ide de preferência ( Python, Vscode ...)
+Abra o projeto com a Ide de preferência ( Python, Vscode, Pycharm ...)
 ```
 ![IDE](https://github.com/Rodrigo-Santoos/Desafio-Academia-Capgemini-2-Parte/blob/main/vscode.PNG)
 ```
