@@ -72,7 +72,7 @@ Opçao [0]
 ```
 Opçao [1]
 ```
-* Digitando [1] irá cadastrar o anúncio e salva no banco de dados todas as informações digitadas.
+* Digitando [1] irá cadastrar o anúncio e salvará no banco de dados todas as informações digitadas.
  ![executando](https://github.com/Rodrigo-Santoos/Desafio-Academia-Capgemini-2-Parte/blob/main/opcao1.PNG)
 ```
 Opçao [2]
