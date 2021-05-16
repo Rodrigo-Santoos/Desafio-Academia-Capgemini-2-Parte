@@ -57,6 +57,7 @@ Abra o projeto com a Ide de preferência ( Python, Vscode, Pycharm ...)
 ```
 Rode a aplicação
 ```
+* Pegue o arquivo e abra com IDE e execulte ( Nesse caso eu usei o Vscode e cliquei no botao de executar)      
  ![executando](https://github.com/Rodrigo-Santoos/Desafio-Academia-Capgemini-2-Parte/blob/main/rodando.PNG)
 ```
 Após iniciar a aplicação será listada as opçoes de execução. 
