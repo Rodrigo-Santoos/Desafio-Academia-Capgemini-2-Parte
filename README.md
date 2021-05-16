@@ -83,7 +83,7 @@ Opçao [2]
 ```
 Opçao [3]
 ```
-* Digitando [3] o sistema pedirá para o usuário digitar o nome que cadastrou e trás todos os dados com esse nome.
+* Digitando [3] o sistema pedirá para o usuário digitar o nome que cadastrou e trás todos os dados com esse nome   .
  ![executando](https://github.com/Rodrigo-Santoos/Desafio-Academia-Capgemini-2-Parte/blob/main/opcao3.PNG)
 ```
 Opçao [4]
