@@ -82,12 +82,12 @@ Opçao [2]
 ```
 Opçao [3]
 ```
-* Digitando [3] irá Trazer os relatório a partir do nome do cliente.
+* Digitando [3] o sistema pedirá para o usuário digitar o nome que cadastrou e trás todos os dados com esse nome.
  ![executando](https://github.com/Rodrigo-Santoos/Desafio-Academia-Capgemini-2-Parte/blob/main/opcao3.PNG)
 ```
 Opçao [4]
 ```
-* Digitando [4] irá Trazer os relatório a partir da data início e data.
+* Digitando [4] o sistema pedirá para o usuário digitar a data inicial e data final e irá trazer o range de datas.
  ![executando](https://github.com/Rodrigo-Santoos/Desafio-Academia-Capgemini-2-Parte/blob/main/opcao4.PNG)
 ```
 Opçao [5]
