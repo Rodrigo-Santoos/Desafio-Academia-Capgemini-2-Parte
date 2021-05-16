@@ -63,6 +63,11 @@ Após iniciar a aplicação será listada as opçoes de execução.
 ```
 ![rodando](https://github.com/Rodrigo-Santoos/Desafio-Academia-Capgemini-2-Parte/blob/main/Tela%20Menu.PNG)
 ```
+Execultando o codigo. 
+```
+* O codigo pedira para voce digitar entre 0 a 5,
+```
+
 ## 🛠️ Aplicação construída com 
 
 * [Windows:](https://www.python.org/downloads/)
