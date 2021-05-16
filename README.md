@@ -57,15 +57,43 @@ Abra o projeto com a Ide de preferência ( Python, Vscode, Pycharm ...)
 ```
 Rode a aplicação
 ```
-![executando](https://github.com/Rodrigo-Santoos/Desafio-Academia-Capgemini-2-Parte/blob/main/rodando.PNG)
+ ![executando](https://github.com/Rodrigo-Santoos/Desafio-Academia-Capgemini-2-Parte/blob/main/rodando.PNG)
 ```
 Após iniciar a aplicação será listada as opçoes de execução. 
 ```
-![rodando](https://github.com/Rodrigo-Santoos/Desafio-Academia-Capgemini-2-Parte/blob/main/Tela%20Menu.PNG)
+* Ira mostrar um sistema.        
+ ![rodando](https://github.com/Rodrigo-Santoos/Desafio-Academia-Capgemini-2-Parte/blob/main/Tela%20Menu.PNG)
+
 ```
-Execultando o codigo. 
+Opçao [0]
 ```
-* O codigo pedira para voce digitar entre 0 a 5,
+* Digitando [0] essa opção criará uma tabela, se a tabela existir ele irá excluir e criar novamente.
+ ![executando](https://github.com/Rodrigo-Santoos/Desafio-Academia-Capgemini-2-Parte/blob/main/criandoTabela.PNG)
+```
+Opçao [1]
+```
+* Digitando [1] irá cadastrar o anúncio e salva no banco de dados todas as informações digitadas.
+ ![executando](https://github.com/Rodrigo-Santoos/Desafio-Academia-Capgemini-2-Parte/blob/main/opcao1.PNG)
+```
+Opçao [2]
+```
+* Digitando [2] irá Trazer os relatório de todos os dados cadastrados.
+ ![executando](https://github.com/Rodrigo-Santoos/Desafio-Academia-Capgemini-2-Parte/blob/main/opcao2.PNG)
+```
+Opçao [3]
+```
+* Digitando [3] irá Trazer os relatório a partir do nome do cliente.
+ ![executando](https://github.com/Rodrigo-Santoos/Desafio-Academia-Capgemini-2-Parte/blob/main/opcao3.PNG)
+```
+Opçao [4]
+```
+* Digitando [4] irá Trazer os relatório a partir da data início e data.
+ ![executando](https://github.com/Rodrigo-Santoos/Desafio-Academia-Capgemini-2-Parte/blob/main/opcao4.PNG)
+```
+Opçao [5]
+```
+* Digitando [5] encerrará o sistema.     
+ ![executando](https://github.com/Rodrigo-Santoos/Desafio-Academia-Capgemini-2-Parte/blob/main/opcao5.PNG) 
 ```
 
 ## 🛠️ Aplicação construída com 
