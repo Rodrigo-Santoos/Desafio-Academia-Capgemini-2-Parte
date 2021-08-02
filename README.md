@@ -1,5 +1,5 @@
 <div align="center">
-<img src="pythonLogo.png"  width="100" >
+<img src="pythonLogo.png"  width="150" >
 </div>
 
 # Projeto realizado conforme desafio fornecido para processo seletivo  
